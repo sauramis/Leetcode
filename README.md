@@ -1,2 +1,2 @@
 # Leetcode
-This is where I experiment at competitive coding.
+This is where I experiment with competitive coding.
